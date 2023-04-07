@@ -1,5 +1,5 @@
 # trello-console-py
-Uses Rich for formatting, Trello-py for API
+Uses Rich for formatting, py-trello for API
 
 Outputs cards from Trello into a tree format for console
 
